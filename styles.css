@@ -1,0 +1,28 @@
+a
+{
+	color: #22bce0;
+}
+body
+{
+	background:#EEEEEE;
+	font-family: "arial";
+	font-size: 16px; minuto 28:00;
+}
+header
+{
+	background: #343854
+}
+header h1
+{
+	font-size: 18px;
+	font-weight: normal;
+}
+header #logo img
+{
+	width: 52px;
+}
+header #avatar img
+{
+	width: 55px
+	border-radius: 50%;
+}
